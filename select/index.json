@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "SHYNESS BOY",
+  "base_artist": "杏里",
+  "createdAt": "2026-03-05T14:00:37.978913Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SHYNESS BOY",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/01_SHYNESS_BOY_杏里.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SHYNESS BOY",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/02_SHYNESS_BOY_Anri.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shyness Boy",
+      "artist": "杏里 (Anri)",
+      "has_synced": true,
+      "path": "select/03_Shyness_Boy_杏里_(Anri).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SHYNESS BOY",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/04_SHYNESS_BOY_Anri.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Anri-Shyness Boy",
+      "artist": "AZgkft",
+      "has_synced": true,
+      "path": "select/05_Anri-Shyness_Boy_AZgkft.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SHYNESS BOY",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/06_SHYNESS_BOY_杏里.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tokyo Shyness Boy",
+      "artist": "Haruomi Hosono",
+      "has_synced": false,
+      "path": "select/07_Tokyo_Shyness_Boy_Haruomi_Hosono.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shyness Boy",
+      "artist": "Anri (杏里)",
+      "has_synced": true,
+      "path": "select/08_Shyness_Boy_Anri_(杏里).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shyness Boy",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/09_Shyness_Boy_Anri.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SHYNESS BOY (Paused)",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/10_SHYNESS_BOY_(Paused)_Anri.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SHYNESS BOY",
+      "artist": "杏里",
+      "has_synced": false,
+      "path": "select/pl_01_SHYNESS_BOY_杏里.txt"
+    }
+  ]
+}
